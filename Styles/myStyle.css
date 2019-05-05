@@ -1,0 +1,117 @@
+﻿body {
+}
+
+.textcenter {
+    text-align: center;
+    margin-top: 3%;
+    color: white;
+}
+
+.imgJumbotron {
+    width: 80%;
+    height: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+}
+
+.jumbotron {
+    background-image: linear-gradient(#434BDD, #222672);
+}
+
+.btnJamboTron {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    margin-top: 5%;
+    background-color: #434BDF;
+    border-color: #434BDF;
+}
+
+    .btnJamboTron:hover {
+        background-color: #D80075;
+        border-color: #D80075;
+    }
+
+#logo {
+    width: 13%;
+    height: 13%;
+    float: left;
+}
+
+#myFrom {
+    width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+input, select {
+    margin-top: 5%;
+}
+
+#myYear {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.jender {
+    margin-top: 6%;
+    margin-right: 3%;
+}
+
+.AC {
+    margin-top: 5%;
+}
+
+.btnNext {
+    background-color: #434BDF;
+    border-color: #434BDF;
+    float: left;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 3%;
+    margin-bottom: 15%;
+}
+
+    .btnNext:hover {
+        background-color: #D80075;
+        border-color: #D80075;
+    }
+
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label::before {
+    background-color: #434BDF;
+}
+
+.custom-radio .custom-control-input:checked ~ .custom-control-label::before {
+    background-color: #434BDF;
+}
+
+h3 {
+    float: left;
+    color: #d9d9d9;
+    margin-bottom: 10%;
+}
+
+h2 {
+    margin-top: 10%;
+    display: block;
+}
+
+#radioinPage2,#radioinPage3 {
+    margin-top: 10%;
+    font-size: 13pt;
+}
+
+.page2,.page3 {
+    margin-top: 5%;
+}
+
+
